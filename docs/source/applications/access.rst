@@ -51,7 +51,7 @@ Alternative macOS Host Installation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. note::
-  The SCION endhost stack is not officially supported on macOS, but it can be built and run with some limitations.
+  Homebrew support will be available soon.
 
 For now, you can build the SCION endhost stack from source (see `SCION Build <https://docs.scion.org/en/latest/dev/build.html#build>`_).
 Depending on where you compile the binaries, you may need to specify ``GOOS=darwin`` and ``GOARCH=amd64`` (or your target architecture).
