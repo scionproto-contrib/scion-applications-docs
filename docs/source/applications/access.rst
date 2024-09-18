@@ -23,7 +23,7 @@ In order to access the SCION production network, your network provider must prov
 Setting up the SCION endhost stack
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-You can install and configure the SCION endhost stack for **Linux, macOS, or Windows** using the `SCION endhost installer <https://sciera.readthedocs.io/en/latest/services/scion-host.html>`_.
+You can install and configure the SCION endhost stack for **Linux, macOS, or Windows** using the `SCION orchastrator for endhosts <https://github.com/netsys-lab/scion-orchestrator>`_.
 
 Alternatively, you can use the `SCION endhost bootstrapper <https://github.com/netsec-ethz/bootstrapper>`_ to fetch the SCION configuration.
 On Debian systems, the bootstrapper will also install the SCION endhost stack for you.
