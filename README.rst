@@ -1,9 +1,5 @@
-Template for the Read the Docs tutorial
-=======================================
+SCION Applications Documentation
+================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This repository contains the technical documentation for mature SCION applications.
+If you are interested in your application being documented here, please contact us.

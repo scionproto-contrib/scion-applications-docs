@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'SCION Applications Documentation'
+copyright = '2024, ETHZ'
+author = 'ETH Zurich'
 
 release = '0.1'
 version = '0.1.0'
