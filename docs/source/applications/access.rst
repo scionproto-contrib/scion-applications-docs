@@ -16,6 +16,7 @@ SCION production network
 The SCION production network is a global real-wordl network that provides secure and reliable communication.
 
 In order to access the SCION production network, your network provider must provide SCION connectivity for your host, e.g.:
+
 - You are a customer of an ISP that provides SCION connectivity.
 - Your university or reasearch institution is part of the SCIERA ISD (see `SCIERA docs <https://sciera.readthedocs.io/en/latest/index.html>`_) or another SCION ISD.
 

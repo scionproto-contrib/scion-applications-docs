@@ -21,10 +21,16 @@ Their documentation is not guaranteed to be hosted in this site indefinitely.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Applications
+   :caption: Requisites
    :hidden:
 
    SCION access and Host configuration <applications/access>
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Applications
+   :hidden:
+
    Browser extension <applications/browser-extension>
    Bittorrent <applications/bittorrent>
    Echo SCION <applications/echoscion>
