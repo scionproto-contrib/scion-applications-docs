@@ -3,6 +3,6 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "SCION applications documentation"
+name = "SCION applications"
 authors = [{name = "ETH Zürich", email = "jordi.subiranieto@inf.ethz.ch"}]
 dynamic = ["version", "description"]

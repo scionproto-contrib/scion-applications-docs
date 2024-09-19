@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'SCION Applications Documentation'
-copyright = '2024, ETHZ'
+copyright = '2024, ETHZ, OvGU'
 author = 'ETH Zurich'
 
 release = '0.1'
