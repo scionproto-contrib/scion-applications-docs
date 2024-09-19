@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'SCION Applications Documentation'
-copyright = '2024, ETHZ, OvGU'
+project = 'SCION Applications'
+copyright = '2024, ETHZ, OVGU'
 author = 'ETH Zurich'
 
 release = '0.1'
