@@ -10,6 +10,14 @@ Start with :doc:`Access and Host configuration <applications/access>` to learn h
    This is a work in progress and more applications will be added soon.
    If you are interested in your application being documented here, please contact us.
 
+Contact us
+----------
+
+We are building a new Inter-domain network and it is likely that you will have questions or suggestions. We are happy to hear from you.
+Please, find us on the following channels:
+   - Email: scionlab-admins@sympa.ethz.ch
+   - Matrix: https://chat.scion.org/
+
 .. _disclaimer:
 
 ==========
