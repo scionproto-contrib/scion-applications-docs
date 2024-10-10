@@ -39,8 +39,9 @@ Their documentation is not guaranteed to be hosted in this site indefinitely.
    :caption: Applications
    :hidden:
 
-   Browser extension <applications/browser-extension>
    Bittorrent <applications/bittorrent>
    Echo SCION <applications/echoscion>
    Hercules <applications/hercules>
    IFPS <applications/ipfs>
+   HTTP Proxy <https://scion-http-proxy.readthedocs.io/en/latest/index.html>
+   Browser Extension <https://scion-browser-extension.readthedocs.io/en/latest/>
