@@ -13,12 +13,12 @@ If it does not, specify the address of the SCION daemon to which you want to att
 
 SCION production network
 ------------------------
-The SCION production network is a global real-wordl network that provides secure and reliable communication.
+The SCION production network is a global real-world network that provides secure and reliable communication.
 
 In order to access the SCION production network, your network provider must provide SCION connectivity for your host, e.g.:
 
 - You are a customer of an ISP that provides SCION connectivity.
-- Your university or reasearch institution is part of the SCIERA ISD (see `SCIERA docs <https://sciera.readthedocs.io/en/latest/index.html>`_) or another SCION ISD.
+- Your university or research institution is part of the SCIERA ISD (see `SCIERA docs <https://sciera.readthedocs.io/en/latest/index.html>`_) or another SCION ISD.
 
 Setting up the SCION endhost stack
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -81,5 +81,4 @@ To set up a local SCION network for development, you must have a development env
 
 If you have a running development environment, you can run the SCION applications on your host.
 You need to specify the address of the SCION daemon to which you want to attach the application to, using the ``SCION_DAEMON_ADDRESS`` environment variable.
-The SCION daemon addresses for the diferent ASes can be found in their corresponding ``sd.toml`` configuration files in the ``gen/ASx`` directories.
-
+The SCION daemon addresses for the different ASes can be found in their corresponding ``sd.toml`` configuration files in the ``gen/ASx`` directories.
