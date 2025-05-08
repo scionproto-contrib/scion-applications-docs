@@ -23,7 +23,7 @@ In order to access the SCION production network, your network provider must prov
 Setting up the SCION endhost stack
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-You can install and configure the SCION endhost stack for **Linux, macOS, or Windows** using the `SCION orchastrator for endhosts <https://github.com/netsys-lab/scion-orchestrator>`_.
+You can install and configure the SCION endhost stack for **Linux, macOS, or Windows** using the `SCION orchestrator for endhosts <https://github.com/netsys-lab/scion-orchestrator>`_.
 
 Alternatively, you can use the `SCION endhost bootstrapper <https://github.com/netsec-ethz/bootstrapper>`_ to fetch the SCION configuration.
 On Debian systems, the bootstrapper will also install the SCION endhost stack for you.
@@ -66,7 +66,7 @@ Depending on where you compile the binaries, you may need to specify ``GOOS=wind
 SCIONLab network
 ----------------
 The SCIONLab network is a global testbed (not production) that runs as SCION as an overlay network protocol. 
-It is used for experimental purposes, altough one can deploy real applications on it. 
+It is used for experimental purposes, although one can deploy real applications on it. 
 It is free to use and open to everyone, but one cannot expect the same level of reliability, performance and security as the SCION production network.
 
 In order to access the SCIONLab network, you must have a SCIONLab account and have set up a SCIONLab node (see https://docs.scionlab.org/).

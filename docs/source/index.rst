@@ -42,7 +42,7 @@ Their documentation is not guaranteed to be hosted in this site indefinitely.
    Bittorrent <applications/bittorrent>
    Echo SCION <applications/echoscion>
    Hercules <applications/hercules>
-   IFPS <applications/ipfs>
+   IPFS <applications/ipfs>
    HTTP Proxy <https://scion-http-proxy.readthedocs.io/en/latest/index.html>
    Browser Extension <https://scion-browser-extension.readthedocs.io/en/latest/>
    Quake III Arena <applications/ioq3-scion.rst>
