@@ -200,7 +200,7 @@ download the original game's demo for free (with limited content).
 Full Game
 """""""""
 Copy the ``.pk3`` files from the original game's `baseq3` and `missionpack` directories
-into the same diretories in ioq3-scion's *homepath*. By providing the ``.qvm`` files in the ``vm``
+into the same directories in ioq3-scion's *homepath*. By providing the ``.qvm`` files in the ``vm``
 subdirectories we override the code from the original game while keeping the remaining assets.
 
 Demo
@@ -270,7 +270,7 @@ ephemeral ports.
 
 Directory Structure
 -------------------
-You should now have to following directory structure.
+You should now have the following directory structure.
 
 Linux
 """""
@@ -498,11 +498,11 @@ Server Commands
 - Command: ``clearclientpaths`` Clear the remote host cache of the server's path selector.
 - Command: ``heartbeat`` Send heartbeat to master servers.
 - Command: ``kick <player name>`` Kick a player from the server.
-- Command: ``banaddr (ip[/subnet] | clientnum [subnet])`` Band an IP or ISD-ASN,IP.
+- Command: ``banaddr (ip[/subnet] | clientnum [subnet])`` Ban an IP or ISD-ASN,IP.
 - Command: ``exceptaddr (ip[/subnet] | clientnum [subnet])`` Exclude an IP or ISD-ASN,IP from a ban.
 - Command: ``bandel (ip[/subnet] | num)`` Remove a ban.
 - Command: ``exceptdel (ip[/subnet] | num)`` Remove an exception.
-- Command: ``listbans`` List bans and excpetions.
+- Command: ``listbans`` List bans and exceptions.
 
 Network
 -------
